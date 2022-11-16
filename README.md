@@ -17,3 +17,9 @@
 ### An overlay of detected sunspots over a region of the solar disc.
 
 ![Generated sunspot overlay](/README_content/sunspots_overlay.gif)
+
+![Generated sunspot overlay](/README_content/sunspots_overlay2.gif)
+
+### An overlay of detected sunspots over the whole solar disc during 2014.
+
+![Generated sunspot overlay](/README_content/sunspots_2014.mp4)
