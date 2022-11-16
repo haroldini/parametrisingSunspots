@@ -14,12 +14,30 @@
 
 ## Sample Generated Results
 
-### An overlay of detected sunspots over a region of the solar disc.
+### An overlay of detected sunspots over a region of the solar disc:
 
 ![Generated sunspot overlay](/README_content/sunspots_overlay.gif)
 
 ![Generated sunspot overlay](/README_content/sunspots_overlay2.gif)
 
-### An overlay of detected sunspots over the whole solar disc during 2014.
+### An overlay of detected sunspots over the whole solar disc during 2014:
 
 ![Generated sunspot overlay](/README_content/sunspots_2014.gif)
+
+### Area and latitude distribution of detected sunspots across solar cycle 24:
+
+![Generated sunspot overlay](/README_content/distribution_areas_ss24.png)
+
+![Generated sunspot overlay](/README_content/distribution_latitudes_ss24.png)
+
+### Parameters tracked across 2014:
+
+![Generated sunspot overlay](/README_content/plots_2014.png)
+
+### Parameters tracked across solar cycle 24:
+
+![Generated sunspot overlay](/README_content/plots_ss24.png)
+
+### Parameters tracked across transit of AR12192, the largest active region of solar cycle 24:
+
+![Generated sunspot overlay](/README_content/plots_AR12192.png)
